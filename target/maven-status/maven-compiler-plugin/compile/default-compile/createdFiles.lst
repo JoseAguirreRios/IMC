@@ -1,0 +1,9 @@
+com\imcapp\servlets\LoginServlet.class
+com\imcapp\servlets\RegistroServlet.class
+com\mycompany\proyecto\resources\JakartaEE8Resource.class
+com\imcapp\entities\Usuario.class
+com\imcapp\services\HistorialIMCService.class
+com\imcapp\entities\HistorialIMC.class
+com\imcapp\servlets\CalculoIMCServlet.class
+com\mycompany\proyecto\JakartaRestConfiguration.class
+com\imcapp\servlets\HistorialServlet.class
